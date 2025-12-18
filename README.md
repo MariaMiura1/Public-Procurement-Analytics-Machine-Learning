@@ -93,4 +93,34 @@ Overall, the results demonstrate that sectoral differences in contract size and 
 
 ## Key takeaways
 
-- National
+- National and EU-level procurement data capture **different but complementary aspects** of public procurement activity.
+- Construction dominates Spanish national procurement in terms of volume, but is underrepresented in EU-level publication.
+- Healthcare and social services show a higher relative presence in TED, reflecting larger average contract values.
+- Aggregation at CPV 2-digit level is essential for harmonised sectoral comparison.
+- Integrated analysis of PCSP and TED data is crucial for evidence-based procurement policy evaluation.
+
+---
+
+## Tools and technologies
+
+- **Python** (pandas, matplotlib)
+- **Public procurement data standards** (CPV classification)
+- **Reproducible data pipelines**
+- Visualisations suitable for **Power BI / Tableau integration** in corporate environments
+
+---
+
+## Next steps
+
+- Extension to multi-year analysis
+- Integration with eForms-based procurement data
+- Development of procurement indicators and dashboards
+- Exploration of machine learning techniques for anomaly detection and contract classification
+
+---
+
+## Author
+
+Maria Miura  
+Public Procurement Data Analysis  
+Spain / EU
